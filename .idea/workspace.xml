@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9d05060-409c-4f4a-a2a8-be9e44011710" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/src/test/resources/cignaRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/src/test/resources/cignaRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/test-classes/cignaRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/target/test-classes/cignaRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/resources/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentTestManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentTestManager.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Amazon/target/" />
+    <ignored path="$PROJECT_DIR$/Citibank/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/Facebook/target/" />
+    <ignored path="$PROJECT_DIR$/Cnn/target/" />
+    <ignored path="$PROJECT_DIR$/Cigna/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Amazon/src/main/resources</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Cigna/src/main/java/CignaPKG1/CignaGlobalProduct.java" />
+        <option value="$PROJECT_DIR$/Cigna/src/main/java/CignaPKG/CignaNavigationTab.java" />
+        <option value="$PROJECT_DIR$/Cigna/src/main/java/CignaPKG1/CignaNavigationTab.java" />
+        <option value="$PROJECT_DIR$/Cigna/pom.xml" />
+        <option value="$PROJECT_DIR$/Cigna/src/main/resources/cignaRunner.xml" />
+        <option value="$PROJECT_DIR$/Cnn/src/main/java/CnnPKG/CnnVerifyPage.java" />
+        <option value="$PROJECT_DIR$/Cnn/src/test/java/CnnVerifyPageTest.java" />
+        <option value="$PROJECT_DIR$/Cnn/src/main/resources/cnnRunner.xml" />
+        <option value="$PROJECT_DIR$/Extent-Report" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/AmazonPKG/Account.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/AmazonPKG/AutoSuggestion.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/AmazonPKG/BrowsingProduct.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/AmazonPKG/VerifyingItem.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/AccountTest.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/AutoSuggestionTest.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/BrowsingProductTest.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/VerifyingItemTest.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/resources/amazonRunner.xml" />
+        <option value="$PROJECT_DIR$/Citibank/src/test/java/CitibankHomePageTest.java" />
+        <option value="$PROJECT_DIR$/Citibank/src/test/resources/citibankRunner.xml" />
+        <option value="$PROJECT_DIR$/Facebook/src/main/java/FacebookPKG/FacebookHomePage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/java/FacebookHomePageTest.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/resources/facbookRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/framework/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/resources/amazonRunner.xml" />
+        <option value="$PROJECT_DIR$/Citibank/src/main/java/CitibankPKG/CitibankHomePage.java" />
+        <option value="$PROJECT_DIR$/Cnn/src/test/resources/cnnRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/framework/commonAPI.java" />
+        <option value="$PROJECT_DIR$/Cigna/src/test/resources/cignaRunner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectId" id="1Xate32JsXgTrnoRaQHofhUUOE2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560904359630" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Facebook/src/test" />
+      <recent name="$PROJECT_DIR$/Cnn/src/test" />
+      <recent name="$PROJECT_DIR$/Citibank/src/test" />
+      <recent name="$PROJECT_DIR$/Cigna/src/test" />
+      <recent name="$PROJECT_DIR$/Amazon/src/test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/resources" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/framework" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/reporting" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/macbook/Documents/BootCamp/Facebook/src/test/resources/facbookRunner.xml">
+    <configuration name="/Users/macbook/Documents/BootCamp/Amazon/src/test/resources/amazonRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="amazon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/amazonRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/macbook/Documents/BootCamp/Cigna/src/test/resources/cignaRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cigna" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cigna/src/test/resources/cignaRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/macbook/Documents/BootCamp/Citibank/src/test/resources/citibankRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="citibank" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Citibank/src/test/resources/citibankRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/macbook/Documents/BootCamp/Cnn/src/test/resources/cnnRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cnn" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cnn/src/test/resources/cnnRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/macbook/Documents/BootCamp/Facebook/src/test/resources/facbookRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="facebook" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Facebook/src/test/resources/facbookRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/macbook/Documents/BootCamp/Facebook/src/test/resources/facbookRunner.xml" />
+        <item itemvalue="TestNG./Users/macbook/Documents/BootCamp/Citibank/src/test/resources/citibankRunner.xml" />
+        <item itemvalue="TestNG./Users/macbook/Documents/BootCamp/Cigna/src/test/resources/cignaRunner.xml" />
+        <item itemvalue="TestNG./Users/macbook/Documents/BootCamp/Amazon/src/test/resources/amazonRunner.xml" />
+        <item itemvalue="TestNG./Users/macbook/Documents/BootCamp/Cnn/src/test/resources/cnnRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9d05060-409c-4f4a-a2a8-be9e44011710" name="Default Changelist" comment="" />
+      <created>1560890660902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560890660902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_macbook_Documents_BootCamp_Citibank_src_test_resources_citibankRunner_xml - 2019.06.18 at 19h 29m 52s.xml">
+      <configuration name="/Users/macbook/Documents/BootCamp/Citibank/src/test/resources/citibankRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_macbook_Documents_BootCamp_Cnn_src_test_resources_cnnRunner_xml - 2019.06.18 at 19h 31m 26s.xml">
+      <configuration name="/Users/macbook/Documents/BootCamp/Cnn/src/test/resources/cnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_macbook_Documents_BootCamp_Cnn_src_test_resources_cnnRunner_xml - 2019.06.18 at 19h 31m 54s.xml">
+      <configuration name="/Users/macbook/Documents/BootCamp/Cnn/src/test/resources/cnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_macbook_Documents_BootCamp_Cigna_src_test_resources_cignaRunner_xml - 2019.06.18 at 19h 48m 23s.xml">
+      <configuration name="/Users/macbook/Documents/BootCamp/Cigna/src/test/resources/cignaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_macbook_Documents_BootCamp_Cigna_src_test_resources_cignaRunner_xml - 2019.06.18 at 19h 51m 13s.xml">
+      <configuration name="/Users/macbook/Documents/BootCamp/Cigna/src/test/resources/cignaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_macbook_Documents_BootCamp_Cigna_src_test_resources_cignaRunner_xml - 2019.06.18 at 19h 52m 42s.xml">
+      <configuration name="/Users/macbook/Documents/BootCamp/Cigna/src/test/resources/cignaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_macbook_Documents_BootCamp_Cigna_src_test_resources_cignaRunner_xml - 2019.06.18 at 19h 53m 41s.xml">
+      <configuration name="/Users/macbook/Documents/BootCamp/Cigna/src/test/resources/cignaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_macbook_Documents_BootCamp_Cigna_src_test_resources_cignaRunner_xml - 2019.06.18 at 20h 27m 19s.xml">
+      <configuration name="/Users/macbook/Documents/BootCamp/Cigna/src/test/resources/cignaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_macbook_Documents_BootCamp_Cigna_src_test_resources_cignaRunner_xml - 2019.06.18 at 20h 29m 28s.xml">
+      <configuration name="/Users/macbook/Documents/BootCamp/Cigna/src/test/resources/cignaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_macbook_Documents_BootCamp_Cigna_src_test_resources_cignaRunner_xml - 2019.06.18 at 20h 30m 24s.xml">
+      <configuration name="/Users/macbook/Documents/BootCamp/Cigna/src/test/resources/cignaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/CignaPKG/CignaNavigationTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/CignaPKG/CignaGlobalProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/CignaPKG/CignaHealthCov.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/CignaPKG/CignaLogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/test/java/CignaGlobalProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/test/java/CignaHealthCovTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/test/java/CignaNavicationTabTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/CnnPKG/CnnVerifyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/CnnPKG/CnnHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/CnnVerifyPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extent-report" />
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/AmazonPKG/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/AmazonPKG/AutoSuggestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/AmazonPKG/BrowsingProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1250#1251#0" expanded="true" />
+            <element signature="e#1299#1300#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1433#1434#0" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
+            <element signature="e#1494#1495#0" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1588#1589#0" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+            <element signature="e#1671#1672#0" expanded="true" />
+            <element signature="e#1713#1714#0" expanded="true" />
+            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#1781#1782#0" expanded="true" />
+            <element signature="e#1811#1812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/AmazonPKG/VerifyingItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1242#1243#0" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+            <element signature="e#1396#1397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/AutoSuggestionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/BrowsingProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/VerifyingItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/AccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../webAutomationProjectT2/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="547" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/FacebookHomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/FacebookPKG/FacebookHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/cnnRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank/src/test/java/CitibankHomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank/src/main/java/CitibankPKG/CitibankHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/framework/commonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="104" column="132" selection-start-line="104" selection-start-column="132" selection-end-line="104" selection-end-column="132" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/facbookRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank/src/test/resources/citibankRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/test/resources/cignaRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/test/java/CignaHomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/amazonRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>amazon</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.aventstack:extentreports:3.1.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
